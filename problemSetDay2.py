@@ -13,3 +13,7 @@ fgrade=print("You are in"+ grade)
 fschool=print("You go to"+ school)
 ffavsubject=print("Your favorite subject is"+ favSubject)
 fgrowUp=print("When you grow up you want to do "+ growUp)
+
+v1=input("What is a?")
+
+a=v1
